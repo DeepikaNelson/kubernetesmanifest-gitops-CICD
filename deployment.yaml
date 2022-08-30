@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: deepikan29/gitops-cicd:9
+      - image: deepikan29/gitops-cicd:10
         name: flaskdemo
         resources: {}
 status: {}
